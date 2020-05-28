@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 * Just making a change to test git is working
+
+* Just making a change to test github is working
